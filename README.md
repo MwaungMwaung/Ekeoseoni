@@ -8,7 +8,7 @@
 - Item 2
 - Item 3
 
-'''c++
+```c++
 
 #include <stdio.h>
 
@@ -18,6 +18,6 @@ int main()
 {
   return 0;
 }
-'''
+```
 
 $\frac{1}{n} \sum_{i=1}^{n} x_{i}$
